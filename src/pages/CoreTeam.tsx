@@ -272,8 +272,9 @@ const CoreTeam = () => {
                 <div className="text-sm text-muted-foreground">Where Logic and Chaos Meet</div>
               </div>
             </div>
-            <div className="text-sm text-muted-foreground">
+            <div className="text-sm text-muted-foreground text-center">
               © 2025 Trigger Mind Club ASET. All rights reserved.
+              <div className="mt-1">made by Armanwarraich</div>
             </div>
           </div>
         </div>
